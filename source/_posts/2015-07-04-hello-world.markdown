@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Hello World""
+title: "Hello World"
 date: 2015-07-04 21:18:31 +0200
 comments: true
 categories: misc
