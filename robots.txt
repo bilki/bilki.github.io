@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://bilki.github.io/sitemap.xml 
