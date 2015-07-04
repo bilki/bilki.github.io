@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[λ-rat]]></title>
   <link href="http://bilki.github.io/atom.xml" rel="self"/>
   <link href="http://bilki.github.io/"/>
-  <updated>2015-07-04T20:17:28+02:00</updated>
+  <updated>2015-07-04T21:47:05+02:00</updated>
   <id>http://bilki.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Roberto Serrano]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://bilki.github.io/blog/2015/07/04/hello-world/"/>
+    <updated>2015-07-04T00:00:00+02:00</updated>
+    <id>http://bilki.github.io/blog/2015/07/04/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello World!</p>
+
+<p>I&rsquo;m Roberto Serrano, a Software Engineer from Murcia, Spain.</p>
+
+<p>I work at <a href="http://wyred.biz">Wyred</a>, developing personalization tools with Scala, Play, Akka, among other technologies, for spanish telco companies.</p>
+
+<p>Functional programming, distributed systems, nosql databases, and cloud services are some of my current interests.</p>
+
+<p>Anime, strategy &amp; war videogames, and zombie stuff occupy almost all my free time.</p>
+
+<p>Have a nice day, and happy coding!</p>
+]]></content>
+  </entry>
   
 </feed>
