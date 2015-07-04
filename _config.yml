@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://bilki.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: λ-rat
+subtitle: rserrano.map(personal ⇒ web)
+author: Roberto Serrano
 simple_search: https://www.google.com/search
-description:
+description: Roberto Serrano personal web. Functional programming, Scala, Spark, Play, Akka, and other stuff.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -64,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: bilki
+github_repo_count: 3
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: bilki
 twitter_tweet_button: true
 
 # Google +1
