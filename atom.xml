@@ -4,7 +4,7 @@
   <title><![CDATA[λ-rat]]></title>
   <link href="http://bilki.github.io/atom.xml" rel="self"/>
   <link href="http://bilki.github.io/"/>
-  <updated>2015-07-05T02:53:10+02:00</updated>
+  <updated>2015-07-19T10:34:35+02:00</updated>
   <id>http://bilki.github.io/</id>
   <author>
     <name><![CDATA[Roberto Serrano]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cards9 Project]]></title>
+    <link href="http://bilki.github.io/blog/2015/07/19/cards9-project/"/>
+    <updated>2015-07-19T09:42:41+02:00</updated>
+    <id>http://bilki.github.io/blog/2015/07/19/cards9-project</id>
+    <content type="html"><![CDATA[<p>At <a href="http://wyred.biz">Wyred</a>, we are creating a nice tool to customize interactions with clients. But there are many things that I don&rsquo;t like about our process. I won&rsquo;t enter into details, but lack of professional experience and time are two powerful reasons.</p>
+
+<p>So I&rsquo;m starting a new personal project to fill these gaps, at least the one concerning to me. A multiplayer turn-based board game that mimics the <a href="http://finalfantasy.wikia.com/wiki/Tetra_Master_%28Minigame%29">Tetra Master</a> minigame from Final Fantasy IX. It splits into a server (the fancy part) and a (probably) javascript mobile application. You can see in my github that I already started developing the server part three months ago, but problems always arise and I parked the project. Now I&rsquo;m on holidays, so chances are that it will get a little boost.</p>
+
+<p>Technologies involved into the server subproject are Scala, Akka, Play and Postgresql. I want to update my knowledge to the new concepts introduced with Scala 2.11, Akka 2.3, Play 2.4, and also get a glimpse of Postgresql with Slick. By the way, testing will be implemented using Scalatest, Scalacheck and Mockito. The UI part isn&rsquo;t very clear to me, so I will wait until the server is ready.</p>
+
+<p>This last year, because of my job, I have been working intensively with Mongodb (mainly 2.6). It&rsquo;s an awesome documental database, but <a href="http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/">some articles</a> have convinced me that my Mongodb knowledge, using the excellent <a href="http://reactivemongo.org/">Reactivemongo</a> driver, has deepened too much and I&rsquo;m forgetting about SQL (or other type of) databases and Scala database stuff like Slick. I&rsquo;m getting biased. Hence the choice for this project is Postgresql.</p>
+
+<p>Future posts will track the development process of this funny project.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
